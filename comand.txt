@@ -28,5 +28,3 @@ live server cmd
 npm install live-server -g / -g means globale  install live server
 live-server / no write npm run cmd 
 
-
-change

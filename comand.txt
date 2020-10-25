@@ -1,0 +1,31 @@
+cd change dir
+mkdir creat dir
+touch file name creat file/ use git/bash
+New-Item fiel name creat file in computer
+
+clear clear the command line
+mv file name ../path move file
+cp file name copy file
+del file name delat file  
+rm file remove fully our computer
+
+
+
+
+
+npm command
+npm init / install npm thsi folder
+npm init packeg name --save-dev / packeg install and devDependencies
+npm init packeg name --save / packeg install and Dependencies
+
+scripts{
+ "compile:sass": "node-sass sass/main.scss css/main.css" use compile scss in the css
+ "compile:sass": "node-sass sass/main.scss css/main.css -w" live compile -w means watch this file
+}
+npm run compile:sass this cmd compile css
+
+live server cmd
+npm install live-server -g / -g means globale  install live server
+live-server / no write npm run cmd 
+
+

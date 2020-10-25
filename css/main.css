@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+h2 {
+  color: #39d4c7; }
+
+p {
+  width: 20rem;
+  margin: auto;
+  padding: 1rem;
+  box-shadow: 0 0 0.3rem #e0e0df;
+  text-align: justify; }

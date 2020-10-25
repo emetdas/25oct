@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+$color-primary: #39d4c7;
+$shado:rgb(224, 224, 223);
+
+@mixin box {
+    width: 20rem;
+    margin: auto;
+    padding: 1rem;
+    box-shadow: 0 0 0.3rem $shado;
+}
+h2{
+    color: $color-primary;
+}
+p{
+    @include box();
+    text-align: justify;
+}
